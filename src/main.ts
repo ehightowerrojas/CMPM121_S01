@@ -26,10 +26,4 @@ button.addEventListener("click", () => {
   document.body.style.backgroundColor = `hsl(${
     Math.floor(Math.random() * 360)
   }, 100%, 50%)`;
-  console.log(
-    "ahhhhhh I have these thingies:",
-    button,
-    counterElement,
-    counter,
-  );
 });
