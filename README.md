@@ -1,6 +1,6 @@
 # CMPM 121 Section Activity starter
 
-This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
+Hello! I added in some text to the console.log output for funsies and was able to make the counter increment by one on each button click using counter += 1 and then updating the physical text to the new counter value. I also made the background color by calling "document.body.style.backgroundColor" to change on each button press by adding a random range of colors.
 
 ## Set up on your computer
 
